@@ -1,0 +1,24 @@
+- name: Twitter
+  url: https://twitter.com/DanielEscobarW
+  class: fa fa-twitter-square
+  title: "@DanielEscobarW"
+  
+- name: Instagram
+  url: https://instagram.com/daeshua
+  class: fa fa-instagram
+  title: "@daeshua"
+  
+- name: Música
+  url: https://soundcloud.com/daeshu
+  class: fa fa-music
+  title: "daeshu"
+  
+- name: Contacto
+  url: "/contacto"
+  class: fa fa-envelope-square
+  title: "Contacto"
+
+- name: RSS
+  url: "/feed.xml"
+  class: fa fa-rss-square
+  title: "Suscribete al RSS"
